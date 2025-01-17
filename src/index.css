@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-home {
+    @apply rounded-md font-bold text-lg inline-flex px-4 py-2 items-center;
+  }
+}
