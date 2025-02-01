@@ -1,5 +1,7 @@
 # Vortex - A Crypto buying and selling platform
+![vortex dashboard pic](https://github.com/user-attachments/assets/73012168-6052-4720-9d22-9aa122722e0e)
 
+## Introduction
 Vortex is a platform where users can search for their favourite Crypto and buy ,sell them .
 
 
