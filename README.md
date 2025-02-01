@@ -2,13 +2,16 @@
 
 Vortex is a platform where users can search for their favourite Crypto and buy ,sell them .
 
+
 ## Tech Stack
 
-**React** – UI library for building interactive interfaces
-**React Router** – Client-side routing for navigation
-**Redux Toolkit** – Scalable state management
-**Tailwind CSS** – Utility-first CSS framework
+**React** – UI library for building interactive interfaces  
+**React Router** – Client-side routing for navigation  
+**Redux Toolkit** – Scalable state management  
+**Tailwind CSS** – Utility-first CSS framework  
 **Supabase** – Backend-as-a-Service (Auth, Database, Storage)
+
+
 
 
 ## Features
